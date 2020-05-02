@@ -4,14 +4,14 @@
 
   [
 
-    {"FormID":1,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/IForm.png","TrailLength":"8.0 mi","FormName":"I-Formation","TrailTime":"5.5 hrs","FormWebsite":"https://www.football-tutorials.com/i-formation-offense-101/"},
-    {"FormID":2,"FormImage":"http://www.protogic.com/images/White_Oak.jpg","FormName":"Flexbone","TrailTime":"5.0 hrs","FormWebsite":"https://www.flexbonenation.com/"},
-    {"FormID":3,"TrailImage":"http://www.protogic.com/images/Strickler_Knob.jpg","TrailName":"Wing T","TrailTime":"5.0 hrs","FormWebsite":"https://www.hikingupward.com/GWNF/StricklerKnob/"},
-    {"FormID":4,"TrailImage":"http://www.protogic.com/images/Crabtree_Falls.jpg","TrailName":"Pistol","TrailTime":"3.5 hrs","FormWebsite":"https://www.hikingupward.com/GWNF/CrabtreeFalls/"},
-    {"FormID":5,"TrailImage":"http://www.protogic.com/images/Signal_Knob.jpg","TrailName":"Singleback (Ace)","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/GWNF/SignalKnob/"},
-    {"FormID":6,"TrailImage":"http://www.protogic.com/images/Overall_Run.jpg","TrailName":"Shotgun","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/SNP/OverallRunBeecherRidge/"},
-    {"FormID":7,"TrailImage":"http://www.protogic.com/images/Raven_Rocks.jpg","TrailName":"Spread","TrailTime":"4 hrs","TrailWebsite":"https://www.hikingupward.com/OVH/RavenRocks/"},
-    {"FormID":8,"TrailImage":"http://www.protogic.com/images/Little_Devis.jpg","TrailName":"Wishbone","TrailTime":"4 hrs","TrailWebsite":"https://www.hikingupward.com/SNP/LittleDevilsStairs/"},
+    {"FormID":1,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/IForm.png","Formation":"I-Formation","Scheme":"Multiple","FormWebsite":"https://www.football-tutorials.com/i-formation-offense-101/"},
+    {"FormID":2,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/FlexboneForm.png","Formation":"Flexbone","Triple Option":"5.0 hrs","FormWebsite":"https://www.flexbonenation.com/"},
+    {"FormID":3,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/WingTForm.png","Formation":"Wing T","Scheme":"Wing T","FormWebsite":"https://www.wingt.com/"},
+    {"FormID":4,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/PistolForm.png","Formation":"Pistol","Scheme":"Multiple or Spread","FormWebsite":"https://joedanielfootball.com/what-is-the-pistol-offense/"},
+    {"FormID":5,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/SinglebackForm.png","Formation":"Singleback (Ace)","Scheme":"Multiple","FormWebsite":"https://www.xsosfootball.com/singleback-formation-sets/"},
+    {"FormID":6,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/ShotgunForm.png","Formation":"Shotgun","Scheme":"Multiple","FormWebsite":"https://www.xsosfootball.com/shotgun-formation-sets/"},
+    {"FormID":7,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/SpreadForm.png","Formation":"Spread","Scheme":"Spread","FormWebsite":"https://www.spreadoffense.com/"},
+    {"FormID":8,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/WishboneForm.png","Formation":"Wishbone","Scheme":"Triple Option","FormWebsite":"https://youthfootballonline.com/wishbone-offense/"},
 
   ],
 
