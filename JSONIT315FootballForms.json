@@ -5,7 +5,7 @@
   [
 
     {"FormID":1,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/IForm.png","Formation":"I-Formation","Scheme":"Multiple","FormWebsite":"https://www.football-tutorials.com/i-formation-offense-101/"},
-    {"FormID":2,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/FlexboneForm.png","Formation":"Flexbone","Triple Option":"5.0 hrs","FormWebsite":"https://www.flexbonenation.com/"},
+    {"FormID":2,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/FlexboneForm.png","Formation":"Flexbone","Scheme":"Triple Option":"5.0 hrs","FormWebsite":"https://www.flexbonenation.com/"},
     {"FormID":3,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/WingTForm.png","Formation":"Wing T","Scheme":"Wing T","FormWebsite":"https://www.wingt.com/"},
     {"FormID":4,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/PistolForm.png","Formation":"Pistol","Scheme":"Multiple or Spread","FormWebsite":"https://joedanielfootball.com/what-is-the-pistol-offense/"},
     {"FormID":5,"FormImage":"https://raw.githubusercontent.com/nclevel/IT315JSONProjectII/master/SinglebackForm.png","Formation":"Singleback (Ace)","Scheme":"Multiple","FormWebsite":"https://www.xsosfootball.com/singleback-formation-sets/"},
